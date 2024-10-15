@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🌱 I’m just a student. It's all.
+- 🔭 Love stars, nature and people <3
+
 <!--
 **Pekaviro/Pekaviro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
